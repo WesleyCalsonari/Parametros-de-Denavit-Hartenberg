@@ -1,5 +1,5 @@
 /*
-  Código: Cinemática direta com Denavit-Hartenberg
+  Código: Cinemática direta utilizando os parâmetros de Denavit-Hartenberg
   Autor: Wesley Calsonari Nogueira
   Data: 11/06/2023
 */
